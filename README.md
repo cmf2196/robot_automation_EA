@@ -2,12 +2,15 @@ Authors: Connor Finn, Abhinit Kothari
 Date: Dec 11th, 2019
 
 Project Overview: 
-
+  This project involved using evoluationary algorithms to 
 
 
 Files Included: 
-
-
+                
+                EA_library.py	
+                physics_simulator.py	
+                robots.py
+               
                   
 Model Generation Instructions:
 
