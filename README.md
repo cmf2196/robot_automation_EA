@@ -1,4 +1,4 @@
-Authors: Connor Finn, Abhinit Kothari
+Authors: Connor Finn, Abhinit Kothari <dir>
 Date: Dec 11th, 2019
 
 Project Overview: 
